@@ -1,3 +1,18 @@
-<h1 class="text-3xl font-bold underline">
-  Hello world!
-</h1>
+<template>
+  <div>
+   <NuxtLayout>    
+    <NuxtPage/>
+    </NuxtLayout>
+
+  </div>
+</template>
+
+<script>
+  export default {
+    
+  }
+</script>
+
+<style lang="scss" scoped>
+
+</style>
