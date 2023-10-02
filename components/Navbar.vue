@@ -27,16 +27,25 @@
           </svg>
           <span
             class="ml-2 text-xl font-bold tracking-wide text-stone-700 uppercase"
-            >Company</span
+            >Falcons</span
           >
         </a>
         <ul class="flex items-center hidden space-x-8 lg:flex">
+            <li>
+                <a
+                  href="/"
+                  aria-label="Our product"
+                  title="Our product"
+                  class="font-medium tracking-wide text-stone-700 transition-colors duration-200 hover:text-teal-accent-400"
+                  >About US</a
+                >
+              </li>
           <li>
             <a
               href="/"
               aria-label="Our product"
               title="Our product"
-              class="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
+              class="font-medium tracking-wide text-stone-700 transition-colors duration-200 hover:text-teal-accent-400"
               >Product</a
             >
           </li>
@@ -64,7 +73,7 @@
               aria-label="About us"
               title="About us"
               class="font-medium tracking-wide text-stone-700 transition-colors duration-200 hover:text-teal-accent-400"
-              >About us</a
+              >How To</a
             >
           </li>
           <li>
@@ -149,6 +158,15 @@
               </div>
               <nav>
                 <ul class="space-y-4">
+                    <li>
+                        <a
+                          href="/"
+                          aria-label="Our product"
+                          title="Our product"
+                          class="font-medium tracking-wide text-stone-700 transition-colors duration-200 hover:text-teal-accent-400"
+                          >About US</a
+                        >
+                      </li>
                   <li>
                     <a
                       href="/"
@@ -182,7 +200,7 @@
                       aria-label="About us"
                       title="About us"
                       class="font-medium tracking-wide text-stone-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
-                      >About us</a
+                      >How To</a
                     >
                   </li>
                   <li>
