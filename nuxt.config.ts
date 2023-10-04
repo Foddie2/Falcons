@@ -11,5 +11,4 @@ export default defineNuxtConfig({
     },
   },
 }
-loading: false
 )
